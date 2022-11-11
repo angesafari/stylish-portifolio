@@ -1,0 +1,138 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.banner-area{
+    width: 100%;
+    height: 100vh;
+    background-image:url(images/bg-masthead.jpg);
+}
+.content-area{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content{
+    text-align: center;
+
+}
+.content h1{
+    font-size: 40px;
+    color: black;
+    
+}
+.content p{
+    font-size: 15px;
+    color: black;
+    font-style: italic;
+}
+.btn{
+    border: none;
+    outline: none;
+    padding: 15px;
+    margin-top: 100px;
+    border-radius: 4px;
+    background-color: rgb( 33, 123, 152);
+    font-size: 14px;
+}
+.container{
+    height: 70vh;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 80px;
+  
+}
+.box{
+    text-align: center;
+}
+.box h3{
+   font-family: Arial, Helvetica, sans-serif;
+   color: black;
+   letter-spacing: 1px;
+}
+.box p{
+    color: rgb(199, 198, 198);
+    font-size: small;
+}
+
+.bn{
+    border: none;
+    outline: none;
+    padding: 15px;
+    margin-top: 100px;
+    border-radius: 4px;
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    
+}
+.container2{
+    height: 80vh;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 20px;
+    background-color: rgb( 33, 123, 152);
+}
+.box2{
+  text-align: center;
+}
+.box2 h3{ 
+   display: flex;
+    font-size: small;
+    margin-top: 10px;
+    color: orange;
+    justify-content: center;
+    margin-top: -100%;
+   
+}
+.box2 p{
+    font-size: 30px;
+    color: white;
+    margin-top: 0%;
+    font-weight: bold;
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+.area2{
+    width: 100%;
+    height: 100vh;
+    background-image:url(images/portfolio-4.jpg);
+}
+.content-area2{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content2{
+    text-align: center;
+}
+.content2 h1{ 
+    font-size: 60px;
+    color: black;
+}
+.btn2{
+    border: none;
+    outline: none;
+    padding: 15px;
+    margin-top: 100px;
+    border-radius: 4px;
+    background-color: rgb( 33, 123, 152);
+    font-size: 14px;
+}
